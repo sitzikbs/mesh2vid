@@ -1,0 +1,4 @@
+#ignore output and .venv dir
+
+./output
+./.venv
