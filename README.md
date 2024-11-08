@@ -24,3 +24,8 @@ conda install pyrender -c conda-forge -y
 conda install opencv -c conda-forge -y
 
 ```
+
+# Usage
+````
+python mesh2vid.py --input_mesh_path ./meshes/3d_mesh.obj --output_video_path ./output/3d_mesh_vid.mp4
+````
